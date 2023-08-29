@@ -1,13 +1,29 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-08-todo-list/static/css/main.d758894d.css",
-    "main.js": "/goit-react-hw-08-todo-list/static/js/main.81f8598e.js",
+    "main.css": "/goit-react-hw-08-todo-list/static/css/main.0e080825.css",
+    "main.js": "/goit-react-hw-08-todo-list/static/js/main.74dbf56c.js",
+    "static/js/415.7d0d9f7a.chunk.js": "/goit-react-hw-08-todo-list/static/js/415.7d0d9f7a.chunk.js",
+    "static/css/26.d710a763.chunk.css": "/goit-react-hw-08-todo-list/static/css/26.d710a763.chunk.css",
+    "static/js/26.eea5aa5f.chunk.js": "/goit-react-hw-08-todo-list/static/js/26.eea5aa5f.chunk.js",
+    "static/css/465.48647cbf.chunk.css": "/goit-react-hw-08-todo-list/static/css/465.48647cbf.chunk.css",
+    "static/js/465.2e9a9c22.chunk.js": "/goit-react-hw-08-todo-list/static/js/465.2e9a9c22.chunk.js",
+    "static/css/653.e72aec9b.chunk.css": "/goit-react-hw-08-todo-list/static/css/653.e72aec9b.chunk.css",
+    "static/js/653.fff3bd14.chunk.js": "/goit-react-hw-08-todo-list/static/js/653.fff3bd14.chunk.js",
+    "static/js/270.caf27a48.chunk.js": "/goit-react-hw-08-todo-list/static/js/270.caf27a48.chunk.js",
     "index.html": "/goit-react-hw-08-todo-list/index.html",
-    "main.d758894d.css.map": "/goit-react-hw-08-todo-list/static/css/main.d758894d.css.map",
-    "main.81f8598e.js.map": "/goit-react-hw-08-todo-list/static/js/main.81f8598e.js.map"
+    "main.0e080825.css.map": "/goit-react-hw-08-todo-list/static/css/main.0e080825.css.map",
+    "main.74dbf56c.js.map": "/goit-react-hw-08-todo-list/static/js/main.74dbf56c.js.map",
+    "415.7d0d9f7a.chunk.js.map": "/goit-react-hw-08-todo-list/static/js/415.7d0d9f7a.chunk.js.map",
+    "26.d710a763.chunk.css.map": "/goit-react-hw-08-todo-list/static/css/26.d710a763.chunk.css.map",
+    "26.eea5aa5f.chunk.js.map": "/goit-react-hw-08-todo-list/static/js/26.eea5aa5f.chunk.js.map",
+    "465.48647cbf.chunk.css.map": "/goit-react-hw-08-todo-list/static/css/465.48647cbf.chunk.css.map",
+    "465.2e9a9c22.chunk.js.map": "/goit-react-hw-08-todo-list/static/js/465.2e9a9c22.chunk.js.map",
+    "653.e72aec9b.chunk.css.map": "/goit-react-hw-08-todo-list/static/css/653.e72aec9b.chunk.css.map",
+    "653.fff3bd14.chunk.js.map": "/goit-react-hw-08-todo-list/static/js/653.fff3bd14.chunk.js.map",
+    "270.caf27a48.chunk.js.map": "/goit-react-hw-08-todo-list/static/js/270.caf27a48.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d758894d.css",
-    "static/js/main.81f8598e.js"
+    "static/css/main.0e080825.css",
+    "static/js/main.74dbf56c.js"
   ]
 }
